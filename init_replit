@@ -1,4 +1,4 @@
-#!/bin/bash
+python3#!/bin/bash
 
 # for cmsimde_site no need to get submodule
 # Update Git submodules
