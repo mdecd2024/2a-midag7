@@ -19,3 +19,6 @@
 [submodule "40923137"]
 	path = 40923137
 	url = https://github.com/fws40923137/cp2023.git
+[submodule "a40923137"]
+	path = a40923137
+	url = https://github.com/fws40923137/cd2024.git
