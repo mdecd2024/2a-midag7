@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T20:08:58+08:00</updated><entry><title>2024 Spring w4</title><link href="./41123148_w4.html" rel="alternate"></link><published>2024-03-19T13:20:00+08:00</published><updated>2024-04-11T20:08:58+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-03-19:./41123148_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 課程日誌w4&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T20:13:42+08:00</updated><entry><title>2024 Spring w4</title><link href="./41123148_w4.html" rel="alternate"></link><published>2024-03-19T13:20:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-03-19:./41123148_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 課程日誌w4&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 課程日誌w4&lt;/p&gt;
 
 
@@ -13,7 +13,7 @@
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w4</title><link href="./41123141_w4.html" rel="alternate"></link><published>2024-03-15T20:00:00+08:00</published><updated>2024-04-11T20:08:58+08:00</updated><author><name>Jun</name></author><id>tag:None,2024-03-15:./41123141_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程教導, 各分組需要明確界定任務需求與分工時序, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時可導入 SourceTree 協助各組員更清楚看到倉儲改版歷程, 與本週分組作業.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w4</title><link href="./41123141_w4.html" rel="alternate"></link><published>2024-03-15T20:00:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>Jun</name></author><id>tag:None,2024-03-15:./41123141_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程教導, 各分組需要明確界定任務需求與分工時序, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時可導入 SourceTree 協助各組員更清楚看到倉儲改版歷程, 與本週分組作業.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程教導, 各分組需要明確界定任務需求與分工時序, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時可導入 SourceTree 協助各組員更清楚看到倉儲改版歷程, 與本週分組作業.&lt;/p&gt;
 
 
@@ -28,11 +28,11 @@
 * 方法二 - Codespaces
 * 方法三 - Gitpod
 * 方法四 - localhost&lt;/p&gt;
-&lt;h1&gt;以上為第四周內容&lt;/h1&gt;</content><category term="w4"></category><category term="網誌撰寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123153_w4.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-04-11T20:08:58+08:00</updated><author><name>41123153</name></author><id>tag:None,2024-03-15:./41123153_w4.html</id><summary type="html">&lt;p&gt;記錄第4週老師上課內容以及學生做了什麼&lt;/p&gt;
+&lt;h1&gt;以上為第四周內容&lt;/h1&gt;</content><category term="w4"></category><category term="網誌撰寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123153_w4.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>41123153</name></author><id>tag:None,2024-03-15:./41123153_w4.html</id><summary type="html">&lt;p&gt;記錄第4週老師上課內容以及學生做了什麼&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;記錄第4週老師上課內容以及學生做了什麼&lt;/p&gt;
 
 
-&lt;h1&gt;W4上課內容、做了什麼？&lt;/h1&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123142_w4.html" rel="alternate"></link><published>2024-03-15T13:20:00+08:00</published><updated>2024-04-11T20:08:58+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-03-15:./41123142_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;W4上課內容、做了什麼？&lt;/h1&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123142_w4.html" rel="alternate"></link><published>2024-03-15T13:20:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-03-15:./41123142_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -44,7 +44,7 @@
 從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
 並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
 &lt;p&gt;個人的倉儲名稱為 cd2024, 而期中的分組倉儲位於 mdecd2024 帳號下, 以2a 開頭, 加上 "-" 之後再補上 midag + 組別, 且各組員的 cd2024 個人倉儲必須設為各分組倉儲的子模組, 目的在各組員可以自行管理並維護自己的課程倉儲, 並決定要引入分組倉儲的內容版次.&lt;/p&gt;
-&lt;p&gt;各組員與分組倉儲的資料, 包括文字資料 (含 LaTeX 報告章節資料)、零組件檔案、零件工程圖或組立圖檔 (含 BOM 與爆炸圖), 以及目前正在整理的教學影片, 或者是各學員將操作流程錄製成的影片或 Wink 資料.&lt;/p&gt;</content><category term="w4"></category><category term="w4網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4課程內容</title><link href="./41123143_w4.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-04-11T20:08:58+08:00</updated><author><name>41123143</name></author><id>tag:None,2024-03-15:./41123143_w4.html</id><summary type="html">&lt;p&gt;將教學影片上字幕並打逐字稿&lt;/p&gt;
+&lt;p&gt;各組員與分組倉儲的資料, 包括文字資料 (含 LaTeX 報告章節資料)、零組件檔案、零件工程圖或組立圖檔 (含 BOM 與爆炸圖), 以及目前正在整理的教學影片, 或者是各學員將操作流程錄製成的影片或 Wink 資料.&lt;/p&gt;</content><category term="w4"></category><category term="w4網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4課程內容</title><link href="./41123143_w4.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>41123143</name></author><id>tag:None,2024-03-15:./41123143_w4.html</id><summary type="html">&lt;p&gt;將教學影片上字幕並打逐字稿&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;將教學影片上字幕並打逐字稿&lt;/p&gt;
 
 
