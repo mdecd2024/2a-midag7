@@ -1,6 +1,7 @@
 # cmsimde_site
 
-2a-midag7 倉儲連結 : https://github.com/mdecd2024/2a-midag7
+2a-midag7 倉儲連結 : https://github.com/mdecd2024/2a-midag7                                                              
+
 2a-midag7 靜態連結 : https://mdecd2024.github.io/2a-midag7/
 
 利用 init_replit 指令安裝所需 Python 模組
