@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T20:13:42+08:00</updated><entry><title>2024 Spring 課程 w6</title><link href="./41123141_w6.html" rel="alternate"></link><published>2024-03-29T20:00:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>Jun</name></author><id>tag:None,2024-03-29:./41123141_w6.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程教導, 分組網誌的統整、 Github Actions 帶有子模組的 main.yml 設定.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程教導, 分組網誌的統整、 Github Actions 帶有子模組的 main.yml 設定.&lt;/p&gt;
+
+
+&lt;h1&gt;Github Actions 帶有子模組的 main.yml 設定&lt;/h1&gt;
+&lt;p&gt;我們所寫的內容丟到個人倉儲, 加上我們有把自己的子模組倒入分組倉儲, 加入取子模組內容的 main.yml 設定把我們所寫的內容整合起來.&lt;/p&gt;
+&lt;p&gt;其中加入取子模組內容的設定為:
+範例:2b-midbg4 cd_report.tex 中的範例報告第一章, 取自其組員分組網站中的 latex 目錄, 且圖片檔案也是沿用分組倉儲中的設定, 取自組員 images 目錄.&lt;/p&gt;
+&lt;h1&gt;網誌的統整&lt;/h1&gt;
+&lt;p&gt;如何把每個人的網誌整合到分組倉儲內, 整合前先把每個人子模組所連到的倉儲更新到現在狀態, 再利用 pelicanconf py 整合各組員的網誌.&lt;/p&gt;</content><category term="w6"></category><category term="網誌撰寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123142_w6.html" rel="alternate"></link><published>2024-03-29T13:20:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-03-29:./41123142_w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統6&lt;/h1&gt;
+&lt;p&gt;ODOO PLM 論文中英並列任務
+由各組員在其個人的 cd2024 倉儲中, 以 LaTeX 格式分工完成下列文章的英文與中文翻譯並列資料, 最後在分組網站的 Release 或 downloads 區完成 2b-midbgx_report.pdf 的製作.&lt;/p&gt;
+&lt;p&gt;若要在近端使用可攜程式環境編譯分組 LaTeX 報告, 請下載 miktex-portable.7z (需要密碼, 下載 167MB, 解開壓縮檔案後約 1GB) 以及參考資料: latex_images_github.7z (需要密碼)&lt;/p&gt;
+&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;
+&lt;p&gt;英文單字查詢: 2021_odoo_reading.html&lt;/p&gt;
+&lt;p&gt;教學影片分組整理並自評&lt;/p&gt;
+&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別
+在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
+從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
+並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;</content><category term="w6"></category><category term="w6網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring w6</title><link href="./41123148_w6.html" rel="alternate"></link><published>2024-03-28T13:20:00+08:00</published><updated>2024-04-11T20:13:42+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-03-28:./41123148_w6.html</id><summary type="html">&lt;p&gt;2024 Spring 課程日誌w6&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 課程日誌w6&lt;/p&gt;
+
+
+&lt;h1&gt;在分組倉儲中取下子模組, 以及更新學員倉儲內容&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/cd2024/blog/2024-cd-2a-w6.html"&gt;教學影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;git submodule up&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry></feed>
