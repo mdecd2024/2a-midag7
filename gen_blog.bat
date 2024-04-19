@@ -1,2 +1,2 @@
 Rem generate blog html files
-pelican markdown -o blog -s local_publishconf.py
+pelican combined_markdown -o blog -s local_publishconf.py
