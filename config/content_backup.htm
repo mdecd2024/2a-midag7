@@ -27,26 +27,144 @@
 <p>41123153 <a href="https://nfuedu-my.sharepoint.com/:b:/g/personal/41123153_nfu_edu_tw/EfWzvObMkiZErf219hfHheMBPjGNJwRI59ArcNSMBRlXuw">P.23-33</a></p>
 <div id="gtx-trans" style="position: absolute; left: 57px; top: 73.4688px;">
 <div class="gtx-trans-icon"></div>
-</div><h1>各組員倉儲與靜態</h1>
-<p><span>40923137 - ( </span><a href="https://github.com/fws40923137/cp2023/tree/cefd8099e63b87ecab183194c191d306f5ba7a22">倉儲<span> </span></a><span>/</span><span> </span>網頁<span> )</span></p>
+</div>
+<h1>各組員倉儲與靜態</h1>
+<p><span>40923137 - ( </span><a href="https://github.com/fws40923137/cp2023">倉儲<span> </span></a><span>/</span><span> </span>網頁<span> )</span></p>
 <p><span>41123141 - ( </span><a href="https://github.com/Jun41123/cd2024">倉儲<span> </span></a><span>/</span><span> </span><a href="https://jun41123.github.io/cd2024/">網頁</a><span> )</span></p>
-<p>41123142 - ( <a href="https://github.com/Liaots/cd2024/tree/4475041b511766e2e3f85cb78b277a72faa03b89">倉儲 </a>/ <a href="https://liaots.github.io/cd2024/content/index.html">網頁</a> )</p>
+<p>41123142 - ( <a href="https://github.com/Liaots/cd2024">倉儲 </a>/ <a href="https://liaots.github.io/cd2024/content/index.html">網頁</a> )</p>
 <p><span>41123143 - (</span><span> <a href="https://github.com/41123143/cd2024">倉儲</a></span><a href="https://github.com/41123143/cd2024/tree/763fc591055b88f5a8382e649bacd6fb8419ed91"> </a><span>/</span><span> <a href="https://41123143.github.io/cd2024/content/index.html">網頁</a> </span><span>)</span></p>
-<p><span>41123144 - (</span><span> </span><a href="https://github.com/41123144/cd2024/tree/dc39bfa04174a8e7c11def09ff46956cc5a72934">倉儲 </a><span>/</span><span> <a href="https://41123144.github.io/cd2024/content/index.html">網頁</a> </span><span>)</span></p>
-<p><span>41123148 - ( <a href="https://github.com/iyuans/cd2024/tree/d40da24cbf59f2f134c5766df529849d06f5c57d">倉儲 </a>/ <a href="https://iyuans.github.io/cd2024/content/index.html">網頁</a> )</span></p>
-<p><span>41123153 - ( <a href="https://github.com/AJhen0526/cd2024/tree/8ac3a0d99b2ebc3345f9372b8b05aea9f29a66a5">倉儲 </a>/ <a href="https://ajhen0526.github.io/cd2024/content/index.html">網頁</a> )</span></p>
-<p><span>41123154 - ( <a href="https://github.com/EASON930420/cd2024/tree/20e567f6730e6e477d85e181ddda77bcf855f579">倉儲 </a>/ <a href="https://eason930420.github.io/cd2024/content/index.html">網頁</a> )</span></p>
+<p><span>41123144 - (</span><span> </span><a href="https://github.com/41123144/cd2024">倉儲 </a><span>/</span><span> <a href="https://41123144.github.io/cd2024/content/index.html">網頁</a> </span><span>)</span></p>
+<p><span>41123148 - ( <a href="https://github.com/iyuans/cd2024">倉儲 </a>/ <a href="https://iyuans.github.io/cd2024/content/index.html">網頁</a> )</span></p>
+<p><span>41123153 - ( <a href="https://github.com/AJhen0526/cd2024">倉儲 </a>/ <a href="https://ajhen0526.github.io/cd2024/content/index.html">網頁</a> )</span></p>
+<p><span>41123154 - ( <a href="https://github.com/EASON930420/cd2024">倉儲 </a>/ <a href="https://eason930420.github.io/cd2024/content/index.html">網頁</a> )</span></p>
 <p><span></span></p>
 <p><span></span></p>
 <div id="gtx-trans" style="position: absolute; left: 72px; top: 152.469px;">
 <div class="gtx-trans-icon"></div>
 </div>
-<h1>W4 影片字幕</h1>
+<h1>W10 任務</h1>
+<h2>任務三</h2>
+<p></p><h2>任務二</h2><h2>任務1</h2>
+<p><span>根據老師所給的 2a.txt 裡的['學號', 'Github 帳號', '組別'], 以下是利用 Python 寫的初步資料數列. </span></p>
+<p><span></span></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">from browser import window, ajax
+   
+def fetch_csv_data():
+  # CSV 檔案網址
+  url = "https://mdecd2024.github.io/2bstud-2bsite/downloads/2b.txt"
+   
+  def on_complete(req):
+    if req.status == 200 or req.status == 0:
+      # 讀取 CSV 檔案內容
+      content = req.text
+   
+      # 依照換行符號拆分資料
+      lines = content.split('\n')
+   
+      # 建立空列表儲存資料
+      data = []
+   
+      # 遍歷每一行資料
+      for line in lines:
+        # 忽略空白行
+        if line.strip() == "":
+          continue
+   
+        # 依照逗號拆分資料
+        items = line.split(',')
+   
+        # 將拆分後的資料加入列表
+        data.append(items)
+   
+      # 印出結果
+      print(data)
+    else:
+      print("Error:", req.text)
+   
+  # 發送 AJAX 請求
+  req = ajax.ajax()
+  req.bind('complete', on_complete)
+  req.open('GET', url, True)
+  req.set_header('content-type', 'application/x-www-form-urlencoded')
+  req.send()
+   
+# 呼叫函式讀取 CSV 資料
+fetch_csv_data()</pre>
+<p></p>
+<p><span>只要透過 for 重複迴圈, 就可以從上列資料中每位學員的基本資料 (學號、Github 帳號與組別) 中直接在網頁建立所需的 html.</span></p>
+<p><span>並列出-學員倉儲連結/學員網站連結/2a 分組倉儲連結 template: https://github.com/mdecd2024/2a-midag組別</span></p>
+<p><span>下列程式碼是加上了生成 HTML 元素的程式碼，以及學員倉庫連結和網站連結的模板：</span></p>
+<p><span></span></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">from browser import window, ajax, document, html
+   
+def fetch_csv_data():
+  # CSV 檔案網址
+  url = "https://mdecd2024.github.io/2astud-2asite/downloads/2a.txt"
+   
+  def on_complete(req):
+    if req.status == 200 or req.status == 0:
+      # 讀取 CSV 檔案內容
+      content = req.text
+   
+      # 依照換行符號拆分資料
+      lines = content.split('\n')
+   
+      # 建立空列表儲存資料
+      data = []
+   
+      # 遍歷每一行資料
+      for line in lines:
+        # 忽略空白行
+        if line.strip() == "":
+          continue
+   
+        # 依照逗號拆分資料
+        items = line.split(',')
+   
+        # 將拆分後的資料加入列表
+        data.append(items)
+   
+      # 印出結果
+      print(data)
+       
+      # 生成 HTML 元素
+      generate_html(data)
+    else:
+      print("Error:", req.text)
+   
+  # 發送 AJAX 請求
+  req = ajax.ajax()
+  req.bind('complete', on_complete)
+  req.open('GET', url, True)
+  req.set_header('content-type', 'application/x-www-form-urlencoded')
+  req.send()
+   
+# 生成 HTML 元素
+def generate_html(data):
+  brython_div = document["brython_div1"]
+  course_title = "cd2024"
+  for student_id, github_username, group in data:
+    # 如果GitHub用戶名為空，將其設置為"000"
+    github_username = github_username if github_username else "000"
+    # 創建網址和倉庫的鏈接
+    site_url = f"https://{github_username}.github.io/{course_title}"
+    repo_url = f"https://github.com/{github_username}/{course_title}"
+    group_repo_url = f"https://github.com/mdecd2024/2a-midag{group}"
+    # 生成HTML元素並插入到div中
+    brython_div &lt;= html.A(student_id, href=site_url) + " | " + \
+                   html.A("GitHub Repo", href=repo_url) + " | " + \
+                   html.A("Group Repo", href=group_repo_url) + html.BR()
+   
+# 呼叫函式讀取 CSV 資料
+fetch_csv_data()</pre>
+<p></p>
+<p><span>這段程式碼會從 CSV 檔案中讀取學員的基本資料（學號、GitHub 帳號、組別），然後使用 </span><code>for</code><span> 迴圈生成 HTML 元素，並將這些元素插入到網頁中。你可以根據需要修改 </span><code>generate_html</code><span> 函式中的 HTML 元素結構，以符合你的需求。</span></p><h1>W4 影片字幕</h1>
 <ul>
 <li>影片填上字幕</li>
 <li>上傳逐字稿.txt</li>
 <li>心得摘要</li>
-</ul><h2>41123141</h2>
+</ul>
+<h2>41123141</h2>
 <p>自評分數:68</p>
 <p></p>
 <p>1. 說明甲班第一組組長如何建立 midagi Team 13:24</p>
@@ -95,7 +213,8 @@
 <li>跑到 tmp -組別-下的py</li>
 <li>抓出來(把自己的 ipv4 環境導入)</li>
 <li>在 <strong>Cms </strong><strong>一次</strong><strong>, </strong><strong>每個人都可以更新</strong></li>
-</ul><h2>41123142</h2>
+</ul>
+<h2>41123142</h2>
 <p>設定Replit Github應用授權的說明影片2:44</p>
 <p>影片:<a href="https://reccloud.com/tw/u/jw7bxyz">https://reccloud.com/tw/u/jw7bxyz</a></p>
 <p>逐字稿:<a href="https://drive.google.com/file/d/1qbrSS6qTYldt--RfGP42r9AeL8a5inCM/view?usp=drive_link">https://drive.google.com/file/d/1qbrSS6qTYldt--RfGP42r9AeL8a5inCM/view?usp=drive_link</a></p>
