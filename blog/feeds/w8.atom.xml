@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a-midag7網際內容管理系統 - w8</title><link href="./" rel="alternate"></link><link href="./feeds/w8.atom.xml" rel="self"></link><id>./</id><updated>2024-05-02T21:44:59+08:00</updated><entry><title>2024 Spring 課程 w8</title><link href="./41123141_w8.html" rel="alternate"></link><published>2024-04-12T20:00:00+08:00</published><updated>2024-05-02T21:44:59+08:00</updated><author><name>Jun41123141</name></author><id>tag:None,2024-04-12:./41123141_w8.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程教導, 協同設計的架構上, 個人與分組的倉儲中.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程教導, 協同設計的架構上, 個人與分組的倉儲中.&lt;/p&gt;
+
+
+&lt;h1&gt;協同上需要的內容&lt;/h1&gt;
+&lt;p&gt;從協同設計的架構上, 個人與分組的倉儲中, 總共設計了以下幾種內容的協同模式:&lt;/p&gt;
+&lt;p&gt;1.分組網站內容的協同
+ 2.分組報告內容的協同
+ 3.分組產品設計的 PLM 協同
+ 4.分組零組件設計的協同
+ 5.分組模擬場景設計的協同
+ 6.分組專案簡報設計的協同&lt;/p&gt;</content><category term="w8"></category><category term="網誌撰寫"></category></entry><entry><title>cd2024 W8</title><link href="./41123153_w8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-05-02T21:44:59+08:00</updated><author><name>41123153</name></author><id>tag:None,2024-04-12:./41123153_w8.html</id><summary type="html">&lt;p&gt;記錄第8週老師上課內容以及學生做了什麼&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;記錄第8週老師上課內容以及學生做了什麼&lt;/p&gt;
+
+
+&lt;h1&gt;W8上課內容&lt;/h1&gt;
+&lt;p&gt;1.產品協同架構說明&lt;/p&gt;
+&lt;h1&gt;學生做了什麼&lt;/h1&gt;
+&lt;p&gt;1.將 ODOO PLM 論文中英並列任務 翻譯完成&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring w8</title><link href="./241123148-w8.html" rel="alternate"></link><published>2024-04-12T13:20:00+08:00</published><updated>2024-05-02T21:44:59+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-04-12:./241123148-w8.html</id><summary type="html">&lt;p&gt;2024 Spring 課程日誌w8&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 課程日誌w8&lt;/p&gt;
+
+
+&lt;h1&gt;個人與分組的倉儲中, 總共設計了以下幾種內容的協同模式:&lt;/h1&gt;
+&lt;p&gt;分組網站內容的協同 - 其中包括章節式的網站內容與網誌內容, 可以透過 Python 程式方法整合各學員子模組中的 config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
+&lt;p&gt;分組報告內容的協同 - 採用的是 Github Actions 與近端 MikTeX 中的 xelatex 將 .tex 轉為 pdf 的整合過程
+分組產品設計的 PLM 協同 - 採用的是 Odoo PLM 模組, 讓各分組可以將網站內容、報告內容視為產品, 從協同架構的訂定作為起點, 完成資料展示作為終點, 逐一將過程的協調、派任與執行方法納入 PLM 系統管理&lt;/p&gt;
+&lt;p&gt;分組零組件設計的協同 - 分別採用 Solvespace 作為鋼球平衡台範例, 讓學員使用 Siemens NX 1872 進行協同零組件繪圖設計, 並將各零件的 .prt 檔案納入各學員的倉儲進行組立, 以便找出最佳的設計分工以及零組件轉檔流程&lt;/p&gt;
+&lt;p&gt;分組模擬場景設計的協同 - 當各分組順利完成鋼球平衡台的零組件轉檔後, 一旦進入 CoppeliaSim 場景後, 必須逐一配置感測器 (Sensors)、致動器 (Actuators) 以及 ZMQ RemoteAPI Python程式, 主要探討如何將此一場景模擬過程在 CoppeliaSim XML 檔案格式與 Siemens NXOpen Python 零件程式檔案間, 找到合用或最佳的協同產品設計模式.&lt;/p&gt;
+&lt;p&gt;分組專案簡報設計的協同 - 在上述各產品設計階段所累積的各種資料, 該如何有效整合到專案完成後必須進行的網際簡報中.&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>w8課程網誌</title><link href="./41123142_w8.html" rel="alternate"></link><published>2024-04-12T13:20:00+08:00</published><updated>2024-05-02T21:44:59+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-04-12:./41123142_w8.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統8&lt;/h1&gt;
+&lt;p&gt;協同產品設計實習課程使用網際內容管理系統, 採 Github Classroom 建立分組倉儲, 並由學員自行利用 cmsimde_site 作為 Github 倉儲的引擎目錄, 利用 Python 執行網頁編輯. 之後再轉檔為靜態網頁, 以便利用 Github Pages 所提供的 WWW 伺服器呈現協同產品設計過程的相關多媒體內容.&lt;/p&gt;
+&lt;p&gt;除了章節式的網站外, cmsimde_site 還額外利用 Pelican 管理使用者所建立的網誌, 以及利用 Reveal 管理使用者所建立的網際簡報.&lt;/p&gt;
+&lt;p&gt;在使用者每週的內容管理過程, 由於必須採用 Python 執行網頁編輯, cd2024 課程採用了四種不同的方法進行, 其中包括 Replit、Codespaces、Gitpod 以及 localhost. 由於前三者屬於雲端作業, 各有不同的使用規定與免費使用權限, 對於多人協同的產品設計團隊而言, 可以根據各自的喜好與環境選擇合用的網頁編輯工具, 且在多方了解下也可透過實際使用發展中的雲端 IDE 環境, 一窺未來可能的 AI 導引前景.&lt;/p&gt;
+&lt;p&gt;從協同設計的架構上, 個人與分組的倉儲中, 總共設計了以下幾種內容的協同模式:&lt;/p&gt;
+&lt;p&gt;1.分組網站內容的協同 - 其中包括章節式的網站內容與網誌內容, 可以透過 Python 程式方法整合各學員子模組中的 config/content.htm 以及 markdown/*.md 檔案至分組網站中
+2.分組報告內容的協同 - 採用的是 Github Actions 與近端 MikTeX 中的 xelatex 將 .tex 轉為 pdf 的整合過程
+3.分組產品設計的 PLM 協同 - 採用的是 Odoo PLM 模組, 讓各分組可以將網站內容、報告內容視為產品, 從協同架構的訂定作為起點, 完成資料展示作為終點, 逐一將過程的協調、派任與執行方法納入 PLM 系統管理
+4.分組零組件設計的協同 - 分別採用 Solvespace 作為鋼球平衡台範例, 讓學員使用 Siemens NX 1872 進行協同零組件繪圖設計, 並將各零件的 .prt 檔案納入各學員的倉儲進行組立, 以便找出最佳的設計分工以及零組件轉檔流程
+5.分組模擬場景設計的協同 - 當各分組順利完成鋼球平衡台的零組件轉檔後, 一旦進入 CoppeliaSim 場景後, 必須逐一配置感測器 (Sensors)、致動器 (Actuators) 以及 ZMQ RemoteAPI Python程式, 主要探討如何將此一場景模擬過程在 CoppeliaSim XML 檔案格式與 Siemens NXOpen Python 零件程式檔案間, 找到合用或最佳的協同產品設計模式.
+6.分組專案簡報設計的協同 - 在上述各產品設計階段所累積的各種資料, 該如何有效整合到專案完成後必須進行的網際簡報中.&lt;/p&gt;</content><category term="w8"></category><category term="w8網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8課程內容</title><link href="./41123143_w8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-02T21:44:59+08:00</updated><author><name>41123143</name></author><id>tag:None,2024-04-12:./41123143_w8.html</id><summary type="html">&lt;p&gt;把先前的事項弄好&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;把先前的事項弄好&lt;/p&gt;
+
+
+&lt;p&gt;整合網誌、影片上字幕和逐字稿等等&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry></feed>
